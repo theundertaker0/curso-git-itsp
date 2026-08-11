@@ -1,0 +1,8 @@
+archivo-secreto.txt
+*.log
+*.tmp
+*.bak
+.env
+*.zip
+/node_modules
+/imagenes
